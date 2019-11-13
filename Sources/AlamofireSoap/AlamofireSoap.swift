@@ -1,0 +1,1 @@
+AlamofireSoap/Classes/AlamofireSoap.swift
